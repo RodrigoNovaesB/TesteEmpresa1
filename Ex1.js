@@ -13,7 +13,7 @@ O arquivo de entrada contém dois valores inteiros correspondentes ao código e 
 tabela acima.
 
 Saída
-O arquivo de saída deve conter a mensagem "Total: R$ " seguido pelo valor a ser pago, com 2 casas após o ponto
+O arquivo de saída deve conter a mensagem "Total: R$" seguido pelo valor a ser pago, com 2 casas após o ponto
 decimal.
 
 Exemplo de Entrada:
